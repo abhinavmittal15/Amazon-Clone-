@@ -1,5 +1,5 @@
 # Amazon-Clone-
-This is an Amazon clone.
+amazon.com clone
 
-#NOTE:
-For now, this is made using only HTML & CSS, I might add some functionality to this website in the future in which case this NOTE will be deleted...
+Created a visually stunning HTML and CSS replica of Amazon.com. Designed responsive layouts, pixel-perfect details, and a user-friendly
+interface, showcasing proficiency in front-end web development
